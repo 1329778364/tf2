@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="4c164d94-b41a-4749-af2b-d018b4d6eb73" name="ubuntu" url="http://13.229.205.41">
-        <fileTransfer host="13.229.205.41" port="22" privateKey="C:\Users\Administrator\.ssh\spotKey.pem" accessType="SFTP" keyPair="true">
+      <webServer id="4c164d94-b41a-4749-af2b-d018b4d6eb73" name="ubuntu" url="http://13.229.228.84">
+        <fileTransfer host="13.229.228.84" port="22" privateKey="C:\Users\Administrator\.ssh\spotKey.pem" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
